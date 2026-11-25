@@ -7,7 +7,7 @@ An interactive, responsive web application designed for exploring Marvel movies,
 Live static web architecture: **100% client-side, zero build steps, completely free to host on GitHub Pages!**
 
 Web Site link -
-https://uj1710glitch.github.io/Marvel-/ 
+https://NOXWAL.github.io/Marvel-/ 
 
 ---
 
