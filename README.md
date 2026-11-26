@@ -1,4 +1,4 @@
-# 🦸 MARVEL OMNIVERSE NEXUS
+# 🦸 MARVEL OMNIVERSE 
 
 <p align="center">
   <img src="assets/marvel-homepage.png" alt="Marvel Omniverse Nexus" width="100%">
